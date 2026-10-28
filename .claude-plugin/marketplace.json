@@ -1,0 +1,15 @@
+{
+  "name": "worship-skills",
+  "description": "Skill viết và đánh bóng nhạc worship cho Suno",
+  "owner": {
+    "name": "Kelvin Huan Nguyen",
+    "url": "https://github.com/kelvinhuannguyen"
+  },
+  "plugins": [
+    {
+      "name": "worship-songwriter-suno",
+      "source": "./plugins/worship-songwriter-suno",
+      "description": "Viết mới hoặc đánh bóng lời nhạc worship (tiếng Anh, song ngữ Hebrew) cho Suno: lời mộc mạc, sâu, chạm cảm xúc, hook giữ chân; xuất style, lyrics metatag và gói YouTube."
+    }
+  ]
+}
