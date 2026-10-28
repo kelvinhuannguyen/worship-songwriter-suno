@@ -9,7 +9,7 @@
     {
       "name": "worship-songwriter-suno",
       "source": "./plugins/worship-songwriter-suno",
-      "description": "Viết mới hoặc đánh bóng lời nhạc worship (tiếng Anh, song ngữ Hebrew) cho Suno: lời mộc mạc, sâu, chạm cảm xúc, hook giữ chân; xuất style, lyrics metatag và gói YouTube."
+      "description": "Viết mới, đánh bóng lời nhạc worship/thánh ca (tiếng Anh, song ngữ Hebrew) cho Suno: lời mộc mạc, sâu, chạm cảm xúc, hook giữ chân; 19 preset phong cách, thánh ca public domain, series theo mùa lễ, gói YouTube."
     }
   ]
 }

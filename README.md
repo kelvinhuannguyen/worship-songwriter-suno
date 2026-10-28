@@ -6,6 +6,7 @@ Skill viết mới hoặc đánh bóng lời nhạc worship / thờ phượng C�
 - Hook và cấu trúc giữ chân người nghe: giọng vào trong 10 giây đầu, chorus trước 1:05, có đoạn hạ xuống gần im rồi dâng lên, kết lặp lại câu mở đầu
 - Song ngữ Hebrew cho kênh Messianic: 23 cụm đã kiểm tra, có ghi chú dạng nam/nữ theo người hát
 - Bàn giao gồm: Style of Music, Exclude Styles, cài đặt Suno v6, lyrics có metatag, điểm WORSHIP-8, gói YouTube
+- **v1.1:** học kỹ thuật từ các thánh ca và bài worship đỉnh cao (không chép lời), danh mục 29 thánh ca public domain kèm năm và giai điệu, quy trình "thánh ca + chorus mới", 19 preset phong cách (gospel, Celtic, Messianic, Afro, Latin…), lịch lễ Cơ Đốc và lễ Do Thái, kế hoạch series/album
 
 *English: A Claude skill for writing new, or polishing existing, Christian worship lyrics for Suno. Lyrics are plain-spoken and emotional, built around a strong hook and a structure that keeps listeners. The skill supports optional Hebrew phrases (all verified) and outputs a Suno-ready package plus YouTube copy.*
 

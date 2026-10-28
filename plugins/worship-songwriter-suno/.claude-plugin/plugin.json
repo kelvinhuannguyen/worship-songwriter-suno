@@ -1,12 +1,20 @@
 {
   "name": "worship-songwriter-suno",
-  "description": "Viết mới hoặc đánh bóng lời nhạc worship (tiếng Anh, song ngữ Hebrew) cho Suno: lời mộc mạc, sâu, chạm cảm xúc, hook giữ chân; xuất style, lyrics metatag và gói YouTube.",
-  "version": "1.0.0",
+  "description": "Viết mới, đánh bóng lời nhạc worship/thánh ca (tiếng Anh, song ngữ Hebrew) cho Suno: lời mộc mạc, sâu, chạm cảm xúc, hook giữ chân; 19 preset phong cách, thánh ca public domain, series theo mùa lễ, gói YouTube.",
+  "version": "1.1.0",
   "author": {
     "name": "Kelvin Huan Nguyen",
     "url": "https://github.com/kelvinhuannguyen"
   },
   "homepage": "https://github.com/kelvinhuannguyen/worship-songwriter-suno",
   "repository": "https://github.com/kelvinhuannguyen/worship-songwriter-suno",
-  "keywords": ["worship", "suno", "songwriting", "lyrics", "hebrew", "christian", "ccm"]
+  "keywords": [
+    "worship",
+    "suno",
+    "songwriting",
+    "lyrics",
+    "hebrew",
+    "christian",
+    "ccm"
+  ]
 }
